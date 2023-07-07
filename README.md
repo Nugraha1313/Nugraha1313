@@ -3,7 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nugraha1313&label=Profile%20views&color=0e75b6&style=flat" alt="nugraha1313" /> </p>
 
 - I’m currently learning **express.js**
-- I Planned to learn **Golang**
+- I planned to learn :
+  -  MongoDB
+  -  web socket
+  -  payment gateway
 - All of my projects are available at [https://nugraha1313.github.io/](https://nugraha1313.github.io/)
 - Todo Project :
   -  Authentication User -> with otp nodemailer and google oauth

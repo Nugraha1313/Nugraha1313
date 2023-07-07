@@ -2,10 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nugraha1313&label=Profile%20views&color=0e75b6&style=flat" alt="nugraha1313" /> </p>
 
-- 🌱 I’m currently learning **express.js**
-
-- 👨‍💻 All of my projects are available at [https://nugraha1313.github.io/](https://nugraha1313.github.io/)
-
+- I’m currently learning **express.js**
+- I Planned to learn **Golang**
+- All of my projects are available at [https://nugraha1313.github.io/](https://nugraha1313.github.io/)
+- Todo Project :
+  -  Authentication User -> with otp nodemailer and google oauth
+  -  Book self API -> (dicoding final submission) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhamad-aulia-nugraha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhamad-aulia-nugraha/" height="30" width="40" /></a>
